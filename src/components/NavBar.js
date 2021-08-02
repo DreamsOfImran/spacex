@@ -6,7 +6,7 @@ const NavBar = () => {
     <Nav className="justify-content-center shadow-sm">
       <Nav.Item>
         <img
-          src="spacex.png"
+          src="/spacex/spacex.png"
           width="250"
           className="d-inline-block align-top m-3"
           alt="React Bootstrap logo"
